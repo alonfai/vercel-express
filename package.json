@@ -1,0 +1,31 @@
+{
+  "name": "vercel-express",
+  "version": "1.0.0",
+  "description": "Express App Deployed to Vercel",
+  "main": "index.js",
+  "type": "commonjs",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alonfai/vercel-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alonfai/vercel-express/issues"
+  },
+  "homepage": "https://github.com/alonfai/vercel-express#readme",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
